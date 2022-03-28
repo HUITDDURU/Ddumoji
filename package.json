@@ -7,7 +7,7 @@
     "build": "tsc -p ."
   },
   "bin": {
-    "ddumoji": "src/cli.js"
+    "ddumoji": "dist/cli.js"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,8 @@
     "chalk": "4",
     "commander": "^8.3.0",
     "conf": "^10.1.1",
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "typescript": "^4.6.3"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
