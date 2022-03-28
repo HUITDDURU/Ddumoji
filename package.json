@@ -1,24 +1,24 @@
 {
   "name": "ddumoji",
-  "version": "1.2.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "tsc -p ."
   },
   "bin": {
-    "teakcon": "dist/cli.js"
+    "ddumoji": "dist/cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DSM-TeaMit/Teakcon.git"
+    "url": "git+https://github.com/HUITDDURU/Ddumoji.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DSM-TeaMit/Teakcon/issues"
+    "url": "https://github.com/HUITDDURU/Ddumoji/issues"
   },
-  "homepage": "https://github.com/DSM-TeaMit/Teakcon#readme",
+  "homepage": "https://github.com/HUITDDURU/Ddumoji#readme",
   "dependencies": {
     "chalk": "4",
     "commander": "^8.3.0",
