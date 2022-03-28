@@ -50,11 +50,6 @@
     "description": "새 버전 릴리즈"
   },
   {
-    "name": "dizzy",
-    "code": "\uD83D\uDCAB",
-    "description": "코드 수정"
-  },
-  {
      "name": "wrench",
      "code": "\uD83D\uDD27",
      "description": "코드 리팩토링"
