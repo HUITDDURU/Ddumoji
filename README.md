@@ -27,3 +27,8 @@
 ```
 npm i ddumoji -g
 ```
+
+# 시작하기
+```
+ddumoji commit
+```
